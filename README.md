@@ -26,4 +26,4 @@ Based on 1,517 observations, the mean temperature in December is 71F, with a ran
 ## Summary
 
 Overall, the spread of temperatures between June and December are relatively similar. Temperature between the two months remain relatively steady. Not only should 
-W.Avy consider temperature, it'd be important to understand precipitation patterns during June and December as well. We are also stratify the data by weather stations to determine the best possible location for the surf and ice cream shop. 
+W.Avy consider temperature, it'd be important to understand precipitation patterns during June and December as well. We could also stratify the data by weather stations to determine the best possible location for the surf and ice cream shop. 
